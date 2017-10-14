@@ -1,6 +1,6 @@
 # privatekey_to_keystore
 A simple webapp which enables a user to create an encrypted keystore file from a private key.
-It can be accessed via github pages: https://clearwood.github.io/privatekey_to_keystore/
+It can be accessed via github pages:
 https://clearwood.github.io/privatekey_to_keystore/
 
 I am using Keythereum to create the keystore file from the provided private key.
