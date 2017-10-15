@@ -31,7 +31,7 @@ var dk = keythereum.create(params);
   }
 });
 
-var password_fields = $("#change_settings input:password");
+var password_fields = $("#change input:password");
 password_fields.dblclick(function() {
   if($(this).attr('type')=='password'){
       $(this).attr('type', 'text');
